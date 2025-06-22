@@ -79,7 +79,7 @@ such as high activity in the summer and end-of-year periods.
 
 ## 6. Average Order Value per Customer
 
-![Avg Order Value](visualizations/06_avg_order_value_graph.png)
+![Avg Order Value](visualizations/06_average_order_value_graph.png)
 
 This metric shows the average invoice amount per customer,
 offering insight into customer purchasing behavior and value.
