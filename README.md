@@ -70,7 +70,7 @@ Rock, Latin, and Metal appear to be the most consumed genres by track count.
 
 ## 5. Sales Per Month (Time Series)
 
-![Monthly Sales](visualizations/05_monthly_sales_graph.png)
+![Monthly Sales](visualizations/05_sales_by_month_graph.png)
 
 This time series analysis reveals monthly sales trends. We can observe seasonal spikes,
 such as high activity in the summer and end-of-year periods.
